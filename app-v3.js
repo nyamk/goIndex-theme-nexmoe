@@ -26,10 +26,10 @@ function init() {
   var html = `
 <header class="nexmoe-nav">
 	<div class="navSize">
-			<a href="/"><img class="avatar" src="http://image.14ms.cc"/></a>
+			<a href="/"><img class="avatar" src="https://i.loli.net/2020/07/10/UoOkjMEFSPutyDB.png"/></a>
 			<div class="nav_menu">
 				<ul class="menu_ul">
-				        <!--<li class="menu_li"><a href="http://tz.14ms.cc" target="_blank">博客</a></li>-->
+				        <li class="menu_li"><a href="http://tz.14ms.cc" target="_blank">博客</a>
 					<li class="menu_li"><a href="https://drive.google.com/" target="_blank">登陆</a></li>
 				</ul>
 				<div class="nav_icon" ></div>
